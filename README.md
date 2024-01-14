@@ -17,7 +17,6 @@
 <a href="https://linkedin.com/in/štěpán-velínský" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="štěpán-velínský" height="30" width="40" /></a>
 <a href="https://fb.com/stepka.velda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="stepka.velda" height="30" width="40" /></a>
 <a href="https://instagram.com/s_teffi_no2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s_teffi_no2" height="30" width="40" /></a>
-<a href="https://discord.gg/#3561" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#3561" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
