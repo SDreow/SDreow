@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/43012445/105452071-411e4880-5c43-11eb-8ae2-4de61f310bf9.gif)
 <h1 align="center">Hi 👋, I'm Štěpán Velínský</h1>
-<h3 align="center">I am a web application developer with experience in desktop application development from the Czechia.</h3>
+<h3 align="center">I am a web application developer with experience in desktop application development from Czechia.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sdreow&label=Profile%20views&color=0e75b6&style=flat" alt="sdreow" /> </p>
 
